@@ -1,9 +1,9 @@
-##Projekt statistische Verfahren
+#Projekt statistische Verfahren
 
 * Abgabetermin: 15.9.2018
 * Kosultation nicht möglich in den Zeiträumen:
-    - 4. August - 11.August
-    - 18. August - 5. September
+    - 4.8.18 - 11.8.18
+    - 18.6.18 - 5.6.18
 
 - Form: Wie paper in angewandter Wissenschaft
     1. Einleitung:
