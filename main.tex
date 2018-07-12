@@ -1,0 +1,36 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{geometry}
+\usepackage{lipsum}
+
+\geometry{a4paper, top=20mm, left=20mm, right=20
+ mm, bottom=30mm,
+ headsep=10mm, footskip=12mm}
+
+\begin{document}
+\title{Projekt: Statistische Verfahren\\
+ Datensatz: Kriminalität}
+\author{\textsl{Leonid Kaida - Samia Haddouchi - Christian Lengert}}
+\date{ \today}
+\maketitle
+\thispagestyle{empty}
+\clearpage
+\tableofcontents
+\thispagestyle{empty}
+\clearpage
+\setcounter{page}{1}
+\section{Einleitung}
+\input{sections/einleitung/einleitung}
+\section{Material und Methoden}
+\input{sections/material/material}
+\section{Ergebnisse}
+\input{sections/ergebnisse/ergebnisse}
+\section{Diskussion}
+\input{sections/diskussion/diskussion}
+
+\clearpage
+\bibliographystyle{unsrt}
+\bibliography{theBib}
+\nocite{*}
+\end{document}

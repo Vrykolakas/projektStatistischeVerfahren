@@ -9,7 +9,7 @@ Projekte:
                 1. Beschreibung der Daten und des statistischen Modells + Statistische Vorgehensweise, z.B  Mallows CP
                 2 .Beschreibung der Simulation (Programmieren der Lösung soll Aufgrunde der Beschreibung möglich sein)
             Ergebnisse:
-                -Tabellen,GRafiken und Text um Ergebnisse zu beschreiben.
+                -Tabellen,Grafiken und Text um Ergebnisse zu beschreiben.
             Diskusion:
                 -Interpretation der Ergebnisse,
                     -statistisch
