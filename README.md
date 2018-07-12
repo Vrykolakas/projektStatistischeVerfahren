@@ -1,4 +1,5 @@
-#Projekt statistische Verfahren
+# Projekt statistische Verfahren
+Ausarbeitung zum Projekt im Modul statistische Verfahren an der Friedrich-Schiller-Universität Jena.
 
 * Abgabetermin: 15.9.2018
 * Kosultation nicht möglich in den Zeiträumen:
