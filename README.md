@@ -11,7 +11,7 @@ Ausarbeitung zum Projekt im Modul statistische Verfahren an der Friedrich-Schill
                 Warum und in welcher Form kann statistische Analyse für spezielles Prblem helfen?
     2. Material und Methoden:
         - Beschreibung der Daten und des statistischen Modells + Statistische Vorgehensweise, z.B  Mallows CP
-        - Beschreibung der Simulation (Programmieren der Lösung soll Aufgrunde der Beschreibung möglich sein)
+        - Beschreibung der Simulation (Programmieren der Lösung soll aufgrund der Beschreibung möglich sein)
     3. Ergebnisse:
         - Tabellen
         - Grafiken
