@@ -4,7 +4,7 @@ Ausarbeitung zum Projekt im Modul statistische Verfahren an der Friedrich-Schill
 * Abgabetermin: 15.9.2018
 * Kosultation nicht möglich in den Zeiträumen:
     - 4.8.18 - 11.8.18
-    - 18.6.18 - 5.6.18
+    - 18.8.18 - 5.9.18
 
 - Form: Wie paper in angewandter Wissenschaft
     1. Einleitung:
